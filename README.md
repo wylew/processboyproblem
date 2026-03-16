@@ -1,4 +1,4 @@
-# processboyproblem# The Process Boy Problem — Conversation Transcript
+# The Process Boy Problem — Conversation Transcript
 
 > **A research conversation developing the theoretical framework behind:**
 > *"The Process Boy Problem: AI Displacement, the Capitalist Flywheel, and the Destruction of the Knowledge Worker Pipeline"*
